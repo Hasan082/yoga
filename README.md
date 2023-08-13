@@ -44,5 +44,3 @@ If you would like to contribute to this project, you can follow these steps:
 
 This project is licensed under the [MIT License](LICENSE).
 ```
-
-You can save this text in a file named `README.md` in the root directory of your project. Make sure to replace the placeholders (e.g., project description, technologies used) with actual information relevant to your project. This README file will provide useful information to anyone who visits your repository.
